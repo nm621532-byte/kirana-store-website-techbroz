@@ -19,7 +19,8 @@ Ek complete chhoti **kirana / grocery store website** — sirf HTML, CSS aur Jav
 💻 Free online editor: https://techbroz-code.sites.tab.bot/ (wahan "🌐 Website live karo" dabao aur apni site online karo)
 
 ## Video
-- YouTube Short: link soon
-- Instagram Reel: link soon
+- ⬇️ Download ZIP (v1.0): https://github.com/nm621532-byte/kirana-store-website-techbroz/raw/main/release/kirana-store-website-v1.0.zip
+- YouTube Short: https://youtube.com/shorts/i3EfkfMa5_I
+- Instagram Reel: https://www.instagram.com/reel/DfQxY_NIRMl/
 
 Made by **Tech Bro Z** — YouTube [@techbrozdeveloper](https://www.youtube.com/@techbrozdeveloper) · Instagram [@tech_bro_z_1](https://www.instagram.com/tech_bro_z_1/)
