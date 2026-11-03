@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  background: #fef9c3;
+  color: #111;
+  padding: 12px;
+}
+h1 {
+  margin: 0;
+  background: #16a34a;
+  color: #fff;
+  padding: 10px;
+  border-radius: 14px;
+}
+#shop {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: 1fr 1fr;
+}
+.card {
+  background: #fff;
+  border: 2px solid #16a34a;
+  border-radius: 16px;
+  box-shadow: 0 4px 14px #86efac;
+  padding: 8px;
+  text-align: center;
+}
+.card span { font-size: 40px; }
+.card p { margin: 4px 0; }
+button {
+  width: 100%;
+  padding: 6px;
+  background: #f97316;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+.offer {
+  background: #dc2626;
+  color: #fff;
+  padding: 8px;
+  border-radius: 10px;
+  font-weight: bold;
+}
